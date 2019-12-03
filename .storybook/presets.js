@@ -1,0 +1,1 @@
+module.exports = ["@storybook/addon-live-edit/preset"]
